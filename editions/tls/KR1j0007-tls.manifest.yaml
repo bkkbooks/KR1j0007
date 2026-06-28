@@ -1,0 +1,213 @@
+canonical_identifier: bkk:krp/KR1j0007/tls/v1
+canonical_location: https://kanripo.org/bkk/KR1j0007/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋名
+  identifiers:
+    krp: KR1j0007
+  tags:
+    kr-categories: KR1j
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR1j0007.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR1j0007_001-tls.yaml, hash: 'sha256:873502100b45d78ed2ffbf17c2a7e2d2c3ddb7026a13b80d71276b9236ddc0cb'}
+  - {seq: 2, filename: KR1j0007_002-tls.yaml, hash: 'sha256:19d58a0f6f61bdc2617814d50b8e901c5ecc7a5d1ff0514e9c89a8edefb4458b'}
+  - {seq: 3, filename: KR1j0007_003-tls.yaml, hash: 'sha256:0f5ddcf57d7818e5af01c6a5e5002941cb20b5b0e0793980d1d6b7a8c77e5ee3'}
+  - {seq: 4, filename: KR1j0007_004-tls.yaml, hash: 'sha256:cc46acf9956f3a2eaef4b28af71d749e0fb4206b3427f4778ec32ef3612e3cac'}
+  - {seq: 5, filename: KR1j0007_005-tls.yaml, hash: 'sha256:e8b47fbba64b3a1cab7115e235963549b49ca9b23cfbf3bc07317a32a7972461'}
+  - {seq: 6, filename: KR1j0007_006-tls.yaml, hash: 'sha256:bd08fb57c1482983d973b5fd3af19e7d13b26101aa660669564cf40d894a3aa4'}
+  - {seq: 7, filename: KR1j0007_007-tls.yaml, hash: 'sha256:4629d0d097e3611fa6da778099f3364345cf9f34852cf6cf7694872a63189764'}
+  - {seq: 8, filename: KR1j0007_008-tls.yaml, hash: 'sha256:abd47fc803cc8dbd7f0f7ddbcd4e507e0c2685c2cf04060d6674465c49f13c37'}
+  - {seq: 9, filename: KR1j0007_009-tls.yaml, hash: 'sha256:22cf9456057fe27f4db4797a1b6480a9cf7cc144ae636f1899a44ccbefa9edfd'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1j0007_001-tls.markers.yaml, hash: 'sha256:0fa0bc7a9219719edd56427fd3ca7ecf22f4d78d96601be48ccbfb7bea2f06f3'}
+  - {seq: 2, role: markers, filename: assets/KR1j0007_002-tls.markers.yaml, hash: 'sha256:496808beb776e0db8092bff656b229d3d0e046b36936dbc544976b7b6e2ca79f'}
+  - {seq: 3, role: markers, filename: assets/KR1j0007_003-tls.markers.yaml, hash: 'sha256:427e07cd5f9ea5a95ad364a3bf7b7b50b3aebb148354d74b0c39cb42511a8f24'}
+  - {seq: 4, role: markers, filename: assets/KR1j0007_004-tls.markers.yaml, hash: 'sha256:c45d00c953db29979e001a4d174202d22aa20ef7a9e044c4bc02a2f4071dec57'}
+  - {seq: 5, role: markers, filename: assets/KR1j0007_005-tls.markers.yaml, hash: 'sha256:fcde44378c04163d8b6d98f4ecf3e10335ee6e5370e3d972bb67e5792b822d37'}
+  - {seq: 6, role: markers, filename: assets/KR1j0007_006-tls.markers.yaml, hash: 'sha256:987c72cd46741fd90d835ad920bb56c1d83c9e845bdcd29cf6b15856e15c627d'}
+  - {seq: 7, role: markers, filename: assets/KR1j0007_007-tls.markers.yaml, hash: 'sha256:a5b44473154dfbb997c001edc446252f1253a5bbebe40001ad35c52267c20033'}
+  - {seq: 8, role: markers, filename: assets/KR1j0007_008-tls.markers.yaml, hash: 'sha256:c34649f2c9396534686978177e56663e28be24f20e81468a608cbc1c89673771'}
+  - {seq: 9, role: markers, filename: assets/KR1j0007_009-tls.markers.yaml, hash: 'sha256:f5d179fc854416a67c7470f8dc24573e4d30cf787390c472d5bdce01f419cd79'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1j0007_tls_001-1a.3-h
+    span:
+    - front
+    - 0
+    - 189
+  label: 釋名序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1j0007_tls_001-1a.3-h
+    span:
+    - front
+    - 0
+    - 0
+  label: 釋名序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1j0007_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 3095
+  label: 釋名第一卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1j0007_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋名第一卷
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1j0007_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 2188
+  label: 釋名第二卷
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1j0007_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋名第二卷
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1j0007_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 2621
+  label: 釋名第三卷
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1j0007_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋名第三卷
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1j0007_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 4260
+  label: 釋名第四卷
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1j0007_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋名第四卷
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1j0007_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 2486
+  label: 釋名第五卷
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1j0007_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋名第五卷
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1j0007_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 1538
+  label: 釋名第六卷
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1j0007_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋名第六卷
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1j0007_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 3595
+  label: 釋名第七卷
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1j0007_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋名第七卷
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1j0007_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 1998
+  label: 釋名第八卷
+  type: section
+  level: 1
+hash: sha256:b05d5310290ec38734d9e9e9b78c3c143ef1943c7f12e5187213c9cddac8a9d7
