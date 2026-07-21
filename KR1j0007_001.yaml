@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR1j0007/tls/v1/juan/1
 seq: 1
-front:
+body:
   text: 釋名序熙以為自古造化制器立象有物以來迄于近代或典禮所制或出自民庶名號雅俗各方多殊聖人於時就而弗改以成其器著於既往哲夫巧士以為之名故興於其用而不易其舊所以崇易簡省事功也夫名之於實各有義類百姓日稱而不知其所以之意故撰天地陰陽四時邦國都鄙車服喪紀下及民庶應用之器論敘指歸謂之釋名凡二十七篇至於事類未能究備凡所不載亦欲智者以類求之博物君子其於答難解惑王父幼孫朝夕侍問以塞可謂之士聊可省諸
   hash: sha256:38f9a7ad66deded64e1fb3572994288f65bf78a991f8c60f6576ac3c28befc07
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR1j0007_tls_001-1a.3-h}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 釋名
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR1j0007.xml
-hash: sha256:873502100b45d78ed2ffbf17c2a7e2d2c3ddb7026a13b80d71276b9236ddc0cb
+hash: sha256:2cca470f61bd58ffe17f20c291782193e97b5f15e305f43ad751e8472cb659d1
